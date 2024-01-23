@@ -2,3 +2,5 @@
 
 Why did I make this? For me and my buddies to have an area for dance battles, relaxing conversations on the bridge, and some nostalgia.
 This mod will be available on Thunderstore as well, and it will also be featured in the BungusModpack alongside the rest of my mods.
+
+If you have any issues please report them to my very professional business email nonk@duck.com
